@@ -1,0 +1,28 @@
+_repo: Suppers--Novel-Suggestions-for-Social-Occasions_33975
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pierce, Paul
+    alias: Pierce, Paul Ashville
+    birthdate: 1866
+    gutenberg_agent_id: '34865'
+    url: http://www.gutenberg.org/2009/agents/34865
+description: ''
+gutenberg_issued: '2010-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33975'
+  lccn: '07026030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking'
+- !lcsh 'Games'
+- !lcc 'TX'
+title: 'Suppers: Novel Suggestions for Social Occasions'
+url: http://www.gutenberg.org/ebooks/33975
